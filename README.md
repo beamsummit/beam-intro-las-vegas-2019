@@ -19,7 +19,7 @@ The schedule is to be as follows:
 | 16:00 - 17:00 | Beam in Production |
 
 
-##**Requirements and setup**##
+## **Requirements and setup** ##
 This workshop relies on a few things that we recommend you install beforehand.
 **Operating System Requirements**
 The educational materials have been tested by us in Linux, Mac, and Windows.
