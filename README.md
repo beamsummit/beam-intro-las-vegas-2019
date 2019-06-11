@@ -1,7 +1,8 @@
 # beam-intro-berlin-2019
-This workshop will explore the basic concepts of the Beam model and the Beam API in Python and Java, and running some pipelines.
+Welcome to the Intro to Beam Workshop for the Summit in Berlin : )
+This workshop will explore the basic concepts of the Beam model and the Beam API in Python and Java. Unfortunately, no Go examples, but if you’re interested in the Go SDK, please check out the Go Quickstart.
 
-This workshop will be led largely by @pabloem. @brucearctor facilitating.   @??(Reza), @??(Kannapan) leading the pattern sessions, and a bunch of others from the community helping out during
+This workshop will be led largely by @pabloem.  @??(Reza), @??(Kannapan) leading the pattern sessions, and a bunch of others from the community helping out during.  With @brucearctor facilitating.  
 
 
 The schedule is to be as follows:
