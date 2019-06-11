@@ -34,7 +34,7 @@ Please setup the project using Java 8 only.
       https://www.jetbrains.com/education/download/#section=pycharm-edu
 * If you’re not using the latest IntelliJ or PyCharm, please ensure that the EduTools plugin is version 2.5+
 
-** Loading the coursework **
+**Loading the coursework**
 1. Upon opening the IDE, you can open the course by clicking
 "Learn and Teach" > "Browse Courses".
 2. Search and select the corresponding course
