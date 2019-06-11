@@ -52,3 +52,19 @@ Please setup the project using Java 8 only.
 “Beam Kata - Python” for PyCharm Edu
 
 See below for detailed screen shots.  
+
+
+
+### Opening the Beam Katas ###
+1. Upon opening the IDE, you can open the course by clicking "Learn and Teach" > "Browse Courses".
+2. Search and select the corresponding course 
+* “Beam Kata - Java” for IntelliJ Edu
+* “Beam Kata - Python” for PyCharm Edu
+3. Select your JDK or Python interpreter by expanding the “Advanced Settings”.
+* Please use JDK 8 and Python 2.7 only.
+* Then click "Join"
+4. You're good to go.
+* Note that for the first time, it will take some time to initialize the project.
+5. To learn more on how to use the Education product:
+* ["How To" IntelliJ Edu](https://www.jetbrains.com/help/education/learner-start-guide.html?section=Introduction%20to%20Java#explore_course)
+* ["How To" PyCharm Edu](https://www.jetbrains.com/help/education/learner-start-guide.html?section=Introduction%20to%20Python#explore_course)
