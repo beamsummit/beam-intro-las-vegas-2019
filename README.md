@@ -46,19 +46,7 @@ Please setup the project using Java 8 only.
       
 * If you’re not using the latest IntelliJ or PyCharm, please ensure that the EduTools plugin is version 2.5+
 
-**Loading the coursework**
-1. Upon opening the IDE, you can open the course by clicking
-"Learn and Teach" > "Browse Courses".
-
-2. Search and select the corresponding course
-“Beam Kata - Java” for IntelliJ Edu
-“Beam Kata - Python” for PyCharm Edu
-
-See below for detailed screen shots.  
-
-
-
-### Opening the Beam Katas ###
+### **Opening the Beam Katas** ###
 1. Upon opening the IDE, you can open the course by clicking "Learn and Teach" > "Browse Courses".
 2. Search and select the corresponding course 
 * “Beam Kata - Java” for IntelliJ Edu
@@ -71,3 +59,10 @@ See below for detailed screen shots.
 5. To learn more on how to use the Education product:
 * ["How To" IntelliJ Edu](https://www.jetbrains.com/help/education/learner-start-guide.html?section=Introduction%20to%20Java#explore_course)
 * ["How To" PyCharm Edu](https://www.jetbrains.com/help/education/learner-start-guide.html?section=Introduction%20to%20Python#explore_course)
+
+
+See below for detailed screen shots.  
+
+![Alt text](images/Browse.png)
+
+![Alt text](images/Kata.png)
