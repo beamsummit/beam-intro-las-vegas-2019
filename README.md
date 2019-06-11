@@ -28,6 +28,7 @@ This workshop relies on a few things that we recommend you install beforehand.
 **Operating System Requirements**
 
 The educational materials have been tested by us in Linux, Mac, and Windows.
+
 Please setup the project using Java 8 only.
 
 **IDE Requirements:**
