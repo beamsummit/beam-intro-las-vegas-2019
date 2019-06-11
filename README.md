@@ -28,10 +28,10 @@ This workshop relies on a few things that we recommend you install beforehand.
 **Operating System Requirements**
 
 The educational materials have been tested by us in Linux, Mac, and Windows.
-
 Please setup the project using Java 8 only.
 
 **IDE Requirements:**
+
 * We rely on some of the JetBrains’ products. Specifically, we use:
   * **For Java:** IntelliJ
     * With the EduTools plugin: 
@@ -39,11 +39,13 @@ Please setup the project using Java 8 only.
   * **For Python:** PyCharm or IntelliJ with the Python plugin
     * With the EduTools Plugin: 
       https://www.jetbrains.com/education/download/#section=pycharm-edu
+      
 * If you’re not using the latest IntelliJ or PyCharm, please ensure that the EduTools plugin is version 2.5+
 
 **Loading the coursework**
 1. Upon opening the IDE, you can open the course by clicking
 "Learn and Teach" > "Browse Courses".
+
 2. Search and select the corresponding course
 “Beam Kata - Java” for IntelliJ Edu
 “Beam Kata - Python” for PyCharm Edu
