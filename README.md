@@ -16,7 +16,7 @@ The schedule is to be as follows:
 | 12:00 - 12:30 |Loading and start working on the Beam Katas |
 | 12:30 - 13:30 | Lunch (and work on the Katas with instructors) |
 | 13:30 - 14:00 | Patterns from building some real world pipelines: prelude |
-| 14:00 - 15:00 | Submitting Beam Jobs; Getting Setup for Prod, more Katas |
+| 14:00 - 15:00 | Submitting Beam Jobs; more Katas |
 | 15:00 - 15:30 | Coffee Break (and continue above work, if desired/needed) |
 | 15:30 - 16:00 | Patterns in building real world pipelines: detail |
 | 16:00 - 17:00 | Beam in Production |
