@@ -1,6 +1,6 @@
 
 ```
-# Create a virtual environment
+# Create a virtual environment[1]
 virtualenv venv
 . venv/bin/activate
 
@@ -13,3 +13,9 @@ python -m pip install apache-beam[gcp,test]
 ```
 python -m apache_beam.examples.wordcount --input ../demo_input --output demo_output
 ```
+
+
+
+
+
+[1] see sources online like [this](https://realpython.com/python-virtual-environments-a-primer/) or search 'python virtualenv' for setup.  Dig in even more if you also need pip.  
