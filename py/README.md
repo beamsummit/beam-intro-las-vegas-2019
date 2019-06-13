@@ -18,4 +18,16 @@ python -m apache_beam.examples.wordcount --input ../demo_input --output demo_out
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 [1] see sources online like [this](https://realpython.com/python-virtual-environments-a-primer/) or search 'python virtualenv' for setup.  Dig in even more if you also need pip.  
