@@ -22,11 +22,23 @@ The schedule is to be as follows:
 | 16:00 - 17:00 | Beam in Production |
 
 
-
-
 ## **Requirements and setup** ##
 
 This workshop relies on a few things that we recommend you install beforehand.
+
+**Java Requirements**
+
+If you want to submit Java jobs, you will need to [install Apache Maven](http://maven.apache.org/install.html).
+
+**Python Requirements**
+
+For Python, we use [virtualenv](https://virtualenv.pypa.io/en/latest/installation/) to create an isolated environment.
+
+**Google Cloud Requirements**
+
+This workshop relies on Google Cloud, so we recommend you install the [`gcloud` utility](https://cloud.google.com/sdk/install) with Storage options as well. This will be necessary if you want to:
+
+* Submit jobs to Cloud Dataflow
 
 **Operating System Requirements**
 
@@ -45,6 +57,28 @@ Please setup the project using Java 8 only.
       https://www.jetbrains.com/education/download/#section=pycharm-edu
       
 * If you’re not using the latest IntelliJ or PyCharm, please ensure that the EduTools plugin is version 2.5+
+
+### **Setting up Google Cloud account ** ###
+
+We rely on a Service Account to give you access to Google Cloud utilities, and to submit jobs to Cloud Dataflow. To activate the service account, you can do the following:
+
+```
+# Download the keyfile
+curl http://beam-summit-berlin-2019.storage.googleapis.com/keys/gcp_keyfile.json -o gcp_keyfile.json
+
+# Activate the service account in the keyfile
+gcloud auth activate-service-account --key-file=gcp_keyfile.json
+
+# HACK: Copy to the location for application default credentials.
+cp gcp_keyfile.json $HOME/.config/gcloud/application_default_credentials.json
+```
+
+If this method will not work for you, you can ask a facilitator to add your email to be one of the users of the project, and then do the following:
+
+```
+# Set up the application default credential with your email
+gcloud auth application-default login
+```
 
 ### **Opening the Beam Katas** ###
 1. Upon opening the IDE, you can open the course by clicking "Learn and Teach" > "Browse Courses".
