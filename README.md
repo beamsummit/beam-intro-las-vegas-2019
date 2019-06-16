@@ -36,7 +36,7 @@ For Python, we use [virtualenv](https://virtualenv.pypa.io/en/latest/installatio
 
 **Google Cloud Requirements**
 
-This workshop relies on Google Cloud, so we recommend you install the [`gcloud` utility](https://cloud.google.com/sdk/install) with Storage options as well. This will be necessary if you want to:
+This workshop relies on Google Cloud, so we recommend you install the [`gcloud` utility](https://cloud.google.com/sdk/install) with Storage options as well. Also see link to [interactive installer](https://cloud.google.com/sdk/docs/downloads-interactive).  `gcloud` will be necessary if you want to:
 
 * Submit jobs to Cloud Dataflow
 
