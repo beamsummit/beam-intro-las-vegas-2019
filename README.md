@@ -58,7 +58,7 @@ Please setup the project using Java 8 only.
       
 * If you’re not using the latest IntelliJ or PyCharm, please ensure that the EduTools plugin is version 2.5+
 
-### **Setting up Google Cloud account ** ###
+### Setting up Google Cloud account ###
 
 We rely on a Service Account to give you access to Google Cloud utilities, and to submit jobs to Cloud Dataflow. To activate the service account, you can do the following:
 
@@ -80,7 +80,7 @@ If this method will not work for you, you can ask a facilitator to add your emai
 gcloud auth application-default login
 ```
 
-### **Opening the Beam Katas** ###
+### Opening the Beam Katas ###
 1. Upon opening the IDE, you can open the course by clicking "Learn and Teach" > "Browse Courses".
 2. Search and select the corresponding course 
 * “Beam Kata - Java” for IntelliJ Edu
