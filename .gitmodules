@@ -1,0 +1,4 @@
+[submodule "facilitator/beam"]
+	path = facilitator/beam
+	url = https://github.com/apache/beam/
+	branch = master
