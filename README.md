@@ -32,7 +32,9 @@ If you want to submit Java jobs, you will need to [install Apache Maven](http://
 
 **Python Requirements**
 
-For Python, we use [virtualenv](https://virtualenv.pypa.io/en/latest/installation/) to create an isolated environment.
+For Python, we use [virtualenv](https://virtualenv.pypa.io/en/latest/installation/) 
+to create an isolated environmenti. Also, we rely on 
+[docker](https://docs.docker.com/install/linux/docker-ce/ubuntu/) to run jobs on Flink.
 
 **Google Cloud Requirements**
 
