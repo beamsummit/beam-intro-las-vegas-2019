@@ -1,0 +1,4 @@
+[submodule "facilitator/beam-2.13.0"]
+	path = facilitator/beam-2.13.0
+	url = https://github.com/apache/beam
+	branch = release-2.13.0

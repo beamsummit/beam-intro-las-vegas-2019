@@ -1,4 +1,4 @@
-cd beam/.test-infra/dataproc/
+cd beam-2.13.0/.test-infra/dataproc/
 
 CLUSTER_NAME=flink \
 GCS_BUCKET=gs://beam-summit-berlin-2019/flink-cluster \
