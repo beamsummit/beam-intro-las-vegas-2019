@@ -12,7 +12,7 @@ The schedule is to be as follows:
 
 | TIME | Activity |
 | :--- | :--- |
-| 11:00 - 12:00 | Presentation on Beam SDK Tutorial |
+| 11:00 - 12:00 | [Presentation on Beam SDK Tutorial](slides/Beam_sdk_tutorial.pdf)|
 | 12:00 - 12:30 |Loading and start working on the Beam Katas |
 | 12:30 - 13:30 | Lunch (and work on the Katas with instructors) |
 | 13:30 - 14:00 | Patterns from building some real world pipelines: prelude |
