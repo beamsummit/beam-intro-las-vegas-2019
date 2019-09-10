@@ -1,8 +1,7 @@
 # Hands On With Beam Workshop (writing pipelines)
 
-![Alt text](images/beamberlinbanner.jpg)
 
-Welcome to the Intro to Beam Workshop for the Summit in Berlin : )
+Welcome to the Intro to Beam Workshop for the Summit in Las Vegas : )
 This workshop will explore the basic concepts of the Beam model and the Beam API in Python and Java. Unfortunately, no Go examples, but if you’re interested in the Go SDK, please check out [the Go Quickstart](https://beam.apache.org/get-started/quickstart-go/).
 
 This workshop will be led largely by @pabloem.  @rezarokni, @hashkanna leading the pattern sessions, and a bunch of others from the community helping out with instruction during hands-on sessions.  With @brucearctor.
